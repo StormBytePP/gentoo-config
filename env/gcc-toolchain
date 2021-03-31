@@ -1,0 +1,8 @@
+CFLAGS="${COMPILER_OPTIMIZATION_BASE} ${COMPILER_OPTIMIZATION_CPU} ${COMPILER_OPTIMIZATION_GCC}"
+CXXFLAGS="${CFLAGS} -nostdinc++ -I/usr/include/c++/v1"
+LDFLAGS="${LINKER_OPTIMIZATION_BASE} ${LINKER_OPTIMIZATION_STRIP} ${LINKER_OPTIMIZATION_GOLD} -nodefaultlibs -lc++ -lc++abi -lm -lc -lgcc -lunwind -pthread -lpthread"
+CC="gcc"
+CXX="g++"
+AR="ar"
+NM="nm"
+RANLIB="ranlib"

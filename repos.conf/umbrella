@@ -1,0 +1,9 @@
+[DEFAULT]
+main-repo = Umbrella.Corporation.Repository
+
+[Umbrella-Corporation-Repository]
+location = /var/db/repos/Umbrella-Corporation-Repository
+sync-type = git
+sync-uri = https://github.com/StormBytePP/Umbrella.Corporation.Repository.git
+auto-sync = yes
+priority = 10

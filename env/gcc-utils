@@ -1,0 +1,3 @@
+AR="ar"
+NM="nm"
+RANLIB="ranlib"
