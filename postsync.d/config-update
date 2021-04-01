@@ -4,6 +4,6 @@ cd /etc/portage/patches
 git reset --hard
 git pull --rebase
 
-cd /etc/portage/patches
+cd /etc/portage/
 git reset --hard
 git pull --rebase
