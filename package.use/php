@@ -1,0 +1,1 @@
+dev-lang/php gd -berkdb bzip2 cjk -cli ctype fileinfo filter flatfile -gdbm iconv ipv6 jit nls opcache -phar posix readline session simplexml spell ssl tokenizer unicode xml zlib fpm mysql mysqli pdo postgres sqlite threads truetype xmlreader xmlwriter
