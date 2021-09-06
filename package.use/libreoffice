@@ -1,1 +1,1 @@
-app-office/libreoffice base custom-cflags firebird java pdfimport
+app-office/libreoffice base custom-cflags firebird java pdfimport lto
