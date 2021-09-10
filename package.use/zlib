@@ -1,1 +1,2 @@
 sys-libs/zlib minizip
+sys-libs/zlib ABI_X86: 32 64
