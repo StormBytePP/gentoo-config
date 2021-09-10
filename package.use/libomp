@@ -1,1 +1,2 @@
+sys-libs/libomp hwloc offload ompt
 sys-libs/libomp ABI_X86: 32 64
