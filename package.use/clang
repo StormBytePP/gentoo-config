@@ -1,1 +1,1 @@
-sys-devel/clang default-libcxx llvm-libunwind lto
+sys-devel/clang default-lld default-compiler-rt default-libcxx llvm-libunwind lto
